@@ -8,3 +8,6 @@
 - Motion can test via Keyboard or PS2
 - PID tuning support from Keyboard
 - Position count and speeds will always calculate even after stop
+
+### Developments 
+- Timer function introduced to improve the PID loop.
