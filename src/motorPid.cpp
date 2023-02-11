@@ -5,7 +5,7 @@ motorPid::motorPid()
     // PID parameters only set at the begining
     // For floor without timer_kp = 3.5
     // For floor with timer _kp= 2.0
-    _kp = 3.5;  // 0.7 // 1.2;  // 0.35; // 3.5;  // 0.95; // proporKional
+    _kp = 2.0;  // 0.7 // 1.2;  // 0.35; // 3.5;  // 0.95; // proporKional
     _ki = 0.08; // 0.08; //0.02// intergral
     _kd = 0.01; // derivaKive
 
